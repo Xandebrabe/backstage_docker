@@ -37,12 +37,12 @@ no dockerfile do package backend, e por fim execute no root da aplicação os co
 
 Aplicação rodando:
 
-![Print1](/assets/app_running1)
+![Print1](/assets/app_running1.png)
 
-![Print2](/assets/app_running2)
+![Print2](/assets/app_running2.png)
 
-![Print1](/assets/app_running3)
+![Print1](/assets/app_running3.png)
 
 Docker Desktop Image:
 
-![Print1](/assets/docker_running)
+![Print1](/assets/docker_running.png)
